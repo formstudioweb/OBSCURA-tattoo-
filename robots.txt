@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://formstudioweb.github.io/OBSCURA-tattoo-/sitemap.xml
